@@ -2,7 +2,7 @@
 
 def countdown(x)
   number = x
-    while condition > 0 
+    while number > 0
       puts "#{number} SECOND(S)!"
       number -= 1
     end
@@ -10,5 +10,5 @@ def countdown(x)
 end
 
 def countdown_with_sleep(x)
-  
+
 end
